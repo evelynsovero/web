@@ -412,10 +412,10 @@ section h3.section-subheading {
 }
 
 #portfolio .portfolio-item .portfolio-caption p {
-	margin: 0;
-	font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
-	font-size: 16px;
-	font-style: italic;
+    margin: 0;
+    font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 16px;
+    font-style: italic;
 }
 
 #portfolio * {
@@ -788,8 +788,7 @@ ul.social-buttons li a:active {
 }
 
 .portfolio-modal .modal-content p {
-	margin-bottom: 30px;
-	font-size: 16px;
+	 margin-bottom: 30px;
 }
 
 .portfolio-modal .modal-content p.item-intro {
